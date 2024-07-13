@@ -57,11 +57,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
-  author: process.env.PACK_AUTHER || "WASO",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐌𝐢𝐤𝐞𝐲-𝐌𝐝😍",
+  author: process.env.PACK_AUTHER || "JOHNLEO",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
-  ownername: process.env.OWNER_NAME || "WASI",
+  botname: process.env.BOT_NAME || "𝐌𝐢𝐤𝐞𝐲-𝐌𝐝",
+  ownername: process.env.OWNER_NAME || "JOHNLEO",
   errorChat: process.env.ERROR_CHAT || "2348027387246",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -74,7 +74,7 @@ module.exports = {
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
   AUTOREACTION: process.env.AUTOREACTION || process.env.AUTOREACTION || "true",
-  LANG: (process.env.THEME || "WASI").toUpperCase(),
+  LANG: (process.env.THEME || "JOHNLEO").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
