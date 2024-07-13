@@ -1,7 +1,7 @@
 {
-   "name": "wasi-md-v2",
+   "name": "Mikey-Md",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by itxxwasi ....",
+   "description": "Multi device whatsapp bot by johnleosmith ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
@@ -14,7 +14,7 @@
       "postinstall": "npx puppeteer@latest install --y"
      
    },
-   "author": "Itxxwasi",
+   "author": "johnleosmith",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -76,10 +76,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Itxxwasi/WASI-MD-V2.git"
+      "url": "git+https://github.com/johnleosmith/Mikey-Md.git"
    },
    "bugs": {
-      "url": "https://github.com/Itxxwasi/WASI-MD-V2/issues"
+      "url": "https://github.com/johnleosmith/Mikey-Md/issues"
    },
-   "homepage": "https://github.com/Itxxwasi/WASI-MD-V2#readme"
+   "homepage": "https://github.com/johnleosmith/Mikey-Md#readme"
 }
