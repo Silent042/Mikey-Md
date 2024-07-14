@@ -80,7 +80,7 @@ smd({ on: "text" }, async (message, text, { icmd }) => {
       )
     )
       message.bot.sendPresenceUpdate(waPresence, message.from);
-    if (message.isAstro && !message.fromMe && !message.text.startsWith("$"))
+    if (message.isJohnleo && !message.fromMe && !message.text.startsWith("$"))
       message.react("🤖");
   } catch (e) {
     console.log(e);
@@ -95,7 +95,7 @@ smd({ on: "status" }, async (message, text) => {
         .includes(message.key.participant.split("@")[0]) ||
       ["yes", "true", "ok", "sure"].includes(global.read_status) ||
       message.fromMe ||
-      message.isAstro
+      message.isJohnleo
     ) {
       await message.bot.readMessages([{ ...message.key, fromMe: false }]);
     }
@@ -117,12 +117,12 @@ smd({ on: "status" }, async (message, text) => {
 
 smd(
   {
-    cmdname: "wasiv2",
-    desc: "total Users Currently using asta",
+    cmdname: "mikey",
+    desc: "total Users Currently using Mikey",
   },
   async (message, text) => {
     try {
-      message.send(`An Estimated 120+ Users On Wasi-md-v2`.trim());
+      message.send(`An Estimated 120+ Users On Mikey-Md`.trim());
     } catch (e) {
       console.error("Error:", e);
       message.reply(`*ERROR!* `);
