@@ -270,8 +270,8 @@ async(message,match) => {
        const user1 = message.sender
        const user2 = users
        const k = 1000
-       const balance1  = await eco.balance(user1, "Asta")
-   const balance2  = await eco.balance(user2, "Asta")
+       const balance1  = await eco.balance(user1, "Mikey")
+   const balance2  = await eco.balance(user2, "Mikey")
    const typ = ['ran','rob','caught'];
    const random = typ[Math.floor(Math.random() * typ.length)];
    if (k > balance1.wallet) return message.reply(`*☹️ You don't have enough money to pay incase you get caught*`);
@@ -439,27 +439,27 @@ console.log(balance.wallet)
 if(value<=balance.wallet){
    const deduff = Math.floor(Math.random() * value)
    if ((f1 !== f2) && f2 !== f3){
-       const deduct1 = await eco.deduct(user, "Asta", deduff);
+       const deduct1 = await eco.deduct(user, "Mikey", deduff);
        return message.reply(`${mess1}\n\n*Big Lose -->* _🪙${deduff}_`)
     }
     else if ((f1 == f2) && f2 == f3){
-       const give1 = await eco.give(user, "Asta", deduff/2);
+       const give1 = await eco.give(user, "Mikey", deduff/2);
        return message.reply(`${mess2}\n*_Little Jackpot -->* _🪙${deduff/2}_`)
     }
     else if ((f1 == f2) && f2 !== f3){
-       const give2 = await eco.give(user, "Asta", deduff);
+       const give2 = await eco.give(user, "Mikey", deduff);
        return message.reply(`${mess3}\n*Small Win -->* _🪙${deduff}_`)
     }
     else if ((f1 !== f2) && f1 == f3){
-       const deduct2 = await eco.deduct(user, "Asta", deduff);
+       const deduct2 = await eco.deduct(user, "Mikey", deduff);
        return message.reply(`${mess5}\n\n*Small Lose -->* _🪙${deduff}_`)
     }
     else if ((f1 !== f2) && f2 == f3){
-       const give4 = eco.give(user,"Asta", deduff);
+       const give4 = eco.give(user,"Mikey", deduff);
        return message.reply(`${mess3}\n\n*Small Win -->* _🪙${deduff}_`)
     }
     else if ((f1 == f2) && (f2 == f3) && (f3 == f4)){
-       const give5 = eco.give(user,"Asta", deduff*20);
+       const give5 = eco.give(user,"Mikey", deduff*20);
        return message.reply(`${mess4}\n\n_🎊 JackPot --> _🪙${deduff*20}_`)
     }
     else {
@@ -471,27 +471,27 @@ if(value<=balance.wallet){
 }
            }
            if ((f1 !== f2) && f2 !== f3){
-              const deduct1 = await eco.deduct(user, "Asta", 50);
+              const deduct1 = await eco.deduct(user, "Mikey", 50);
                      message.reply(`${mess1}\n\n*Big Lose -->* _🪙50_`)
            }
            else if ((f1 == f2) && f2 == f3){
-              const give1 = await eco.give(user,"Asta", 100);
+              const give1 = await eco.give(user,"Mikey", 100);
                     message.reply(`${mess2}\n*_Little Jackpot -->* _🪙100_`)
            }
            else if ((f1 == f2) && f2 !== f3){
-              const give2 = await eco.give(user, "Asta", 20);
+              const give2 = await eco.give(user, "Mikey", 20);
                     message.reply(`${mess3}\n*Small Win -->* _🪙20_`)
            }
            else if ((f1 !== f2) && f1 == f3){
-              const deduct2 = await eco.deduct(user, "Asta", 20);
+              const deduct2 = await eco.deduct(user, "Mikey", 20);
                     message.reply(`${mess5}\n\n*Small Lose -->* _🪙20_`)
            }
            else if ((f1 !== f2) && f2 == f3){
-              const give4 = eco.give(user, "Asta", 20);
+              const give4 = eco.give(user, "Mikey", 20);
                     message.reply(`${mess3}\n\n*Small Win -->* _🪙20_`)
            }
            else if ((f1 == f2) && (f2 == f3) && (f3 == f4)){
-              const give5 = eco.give(user, "Asta", 1000);
+              const give5 = eco.give(user, "Mikey", 1000);
                    message.reply(`${mess4}\n\n_🎊 JackPot --> _🪙1000_`)
            }
            else {  message.reply(`Do you understand what you are doing?`)        }
