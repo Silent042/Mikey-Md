@@ -1,11 +1,11 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z">
     <img alt="wasi" height="300" src="https://telegra.ph/file/2aff6169c666b62b77951.jpg">
-    <h1 align="center">WASI MD V2</h1>
+    <h1 align="center">MIKEY MD</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/johnleosmith"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/johnleosmith"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2348027387246"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/johnleosmith?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/johnleosmith?label=Followers&style=social"></a>
