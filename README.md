@@ -60,7 +60,6 @@ Join our WhatsApp support group for assistance and discussions!
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OPU1WA?referralCode=RidRsW)
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`Cod3uchiha FOR HIS HELP `](https://github.com/Cod3uchiha)
-  [`ibrahim-tech-for-help`](https://github.com/ibrahimaitech)
   
 
 
