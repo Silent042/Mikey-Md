@@ -70,22 +70,22 @@ MMMMMMMM               MMMMMMMMIIIIIIIIIIKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEE
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/johnleosmith/Mikey-Md' // Source URL
+const number = '2348027387246'
+var name = ' 𝐉𝐨𝐡𝐧𝐥𝐞𝐨'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://telegra.ph/file/8719abc3b01b4e672cbfc.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│       「 𝐉𝐨𝐡𝐧𝐥𝐞𝐨 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : 𝐉𝐨𝐡𝐧𝐥𝐞𝐨 
+│ Place       : 𝐀𝐍𝐀𝐌𝐁𝐑𝐀, 𝐍𝐈𝐆𝐄𝐑𝐈𝐀
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
-│ education : 𝐁𝐒 𝐒𝐄 
-│ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ Age          : 18
+│ education : Still Schooling 
+│ good vibes : 𝐓𝐀𝐊𝐄 𝐎𝐕𝐄𝐑 𝐓𝐇𝐄 𝐖𝐎𝐑𝐋𝐃 🌍
+│ Phone     : wa.me/2348027387246
+│ Youtube   : youtube.com/@HacktivistHive
+│ GitHub    : https://github.com/johnleosmith 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
