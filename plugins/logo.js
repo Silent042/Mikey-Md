@@ -74,7 +74,7 @@ smd({
   filename: __filename,
 }, async (message, match) => {
   try {
-    if (!match) return message.reply(`*_Example : ${prefix + cmdName} WASI_*`);
+    if (!match) return message.reply(`*_Example : ${prefix + cmdName} MIKEY_*`);
     return await textToLogoGenerator(
       message,
       'tao-hieu-ung-chu-digital-glitch-truc-tuyen-941',
@@ -118,7 +118,7 @@ smd({
       message,
       'tao-hieu-ung-chu-graffiti-duong-pho-an-tuong-online-795',
       match,
-      'WASI',
+      'MIKEY',
       '1'
     );
   } catch (e) {
@@ -138,7 +138,7 @@ smd({
       message,
       'hieu-ung-chu/chu-graffiti-online-mau-8-182',
       match,
-      'WASI',
+      'MIKEY',
       '1'
     );
   } catch (e) {
