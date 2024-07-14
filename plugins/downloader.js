@@ -75,7 +75,7 @@ const {
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*WASI IG STALKER*
+\t*MIKEY IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -1067,7 +1067,7 @@ smd(
      const _0x4ac8f2 = await search(_0x1cb962);
      if (_0x4ac8f2.length) {
        let _0x3d85b = await download(_0x4ac8f2[0].id);
-       let _0x307e6f = "*WASI MD V2 -ᴍᴅ • ᴀᴘᴋ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪsᴛ* \n*________________________________* \n\n*_Reply Any Number To Download._*\n_Results For : " + _0x1cb962 + "_ \n";
+       let _0x307e6f = "*MIKEY MD  -ᴍᴅ • ᴀᴘᴋ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪsᴛ* \n*________________________________* \n\n*_Reply Any Number To Download._*\n_Results For : " + _0x1cb962 + "_ \n";
        for (let _0x5a5920 = 0; _0x5a5920 < _0x4ac8f2.length; _0x5a5920++) {
          _0x307e6f += "\n*" + (_0x5a5920 + 1) + " : " + _0x4ac8f2[_0x5a5920].name + "* \n*Id : " + _0x4ac8f2[_0x5a5920].id + "* \n";
        }
@@ -1153,7 +1153,7 @@ smd(
          : "";
        if (!_0x1c586e) {
          return await _0x1ae8f8.reply(
-           "*Provide Repo Url, _.gitclone https://github.com/Itxxwasi/WASI-Md_*"
+           "*Provide Repo Url, _.gitclone https://github.com/johnleosmith/Mikey-Md_*"
          );
        }
        const _0x5906ab =
@@ -1198,7 +1198,7 @@ smd(
    desc: "text to speech.",
    category: "downloader",
    filename: __filename,
-   use: "<Hii,this is Asta>"
+   use: "<Hii,this is Mikey>"
  }, async (_0x55aba2, _0x56da6b) => {
    try {
      let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
@@ -1218,7 +1218,7 @@ smd(
          },
          mimetype: "audio/mpeg",
          ptt: true,
-         fileName: "WASI-Md-tts.m4a"
+         fileName: "Mikey-Md-tts.m4a"
        }, {
          quoted: _0x55aba2
        });
@@ -1347,7 +1347,7 @@ smd(
  }
  smd({
    pattern: "sound",
-    alias: ["wasii", "aine","mentalism","alive","waso"],
+    alias: ["mikey", "aine","mentalism","alive","waso"],
    desc: "Downloads ringtone.",
    category: "downloader",
    filename: __filename,
@@ -1361,7 +1361,7 @@ smd(
      if (_0x19c223.toString() == "NaN" || _0x19c223 < 1 || _0x19c223 > 160) {
        return _0x2ee3dd.reply("*_❌ Give a number between 1 to 160_*");
      }
-     let _0xf0331a = "https://github.com/Itxxwasi/Tiktokmusic-API/raw/master/tiktokmusic/sound" + _0x19c223.toString() + ".mp3";
+     let _0xf0331a = "https://github.com/johnleosmith/Tiktokmusic-API/raw/master/tiktokmusic/sound" + _0x19c223.toString() + ".mp3";
      let _0x2ba501 = await getBuffer(_0xf0331a);
      var _0x29fdd9 = {
        ...(await _0x2ee3dd.bot.contextInfo(Config.botname, "ᴛɪᴋᴛᴏᴋ ꜱᴏᴜɴᴅ " + _0x19c223))
@@ -1691,7 +1691,7 @@ smd(
          return m.reply("*_Could not find the file!_*");
        }
  
-       const caption = `『 *WASI MD V2 -ᴍᴅ Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ* 』\n\n *Name* : ${result.name}\n *Size* : ${result.size}\n *Mime* : ${result.mime}\n\n\n${Config.caption}`;
+       const caption = `『 *MIKEY MD -ᴍᴅ Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ* 』\n\n *Name* : ${result.name}\n *Size* : ${result.size}\n *Mime* : ${result.mime}\n\n\n${Config.caption}`;
        const fancyCaption = await fancytext(caption, 25);
        const contextInfo = {
          ...(await m.bot.contextInfo(Config.botname, "MEDIAFIRE")),
@@ -1782,7 +1782,7 @@ smd({
        return await _0x1c8285.reply("*_Give Me Search Query!_*");
      }
      let _0x2878ec = await yts(_0xca939c);
-     let _0x4186e4 = "*WASI MD V2 -ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ* \n*_______________________________* \n\n_Reply Any Number To Download._\n  _For Audio: 1 mp3._\n  _For Video: 1 video._\n  _For document: 1 document._\n\n_Results For : " + _0xca939c + "_ \n\n";
+     let _0x4186e4 = "*MIKEY MD -ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ* \n*_______________________________* \n\n_Reply Any Number To Download._\n  _For Audio: 1 mp3._\n  _For Video: 1 video._\n  _For document: 1 document._\n\n_Results For : " + _0xca939c + "_ \n\n";
      let _0x463366 = 1;
      for (let _0x308e22 of _0x2878ec.all) {
        _0x4186e4 += " \n*" + _0x463366++ + " : " + _0x308e22.title + (_0x308e22.timestamp ? "(" + _0x308e22.timestamp + ")" : "") + "*\n*Url : " + _0x308e22.url + "*";
@@ -2049,7 +2049,7 @@ smd({
          url: _0x59bbaa
        },
        mimetype: "audio/mpeg",
-       fileName: "Asta-Md--" + _0x1d542b[1] + ".mp3",
+       fileName: "Mikey-Md--" + _0x1d542b[1] + ".mp3",
        caption: Config.caption,
        contextInfo: _0x10e2fa
      };
@@ -2070,7 +2070,7 @@ smd({
  }) => {
    if (_0xb75e78.quoted && _0xb75e78.text) {
      const _0x5b8ee5 = _0xb75e78.quoted.text.split("\n");
-     if (_0x5b8ee5[0].includes("WASI MD V2 -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ")) {
+     if (_0x5b8ee5[0].includes("MIKEY MD -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ")) {
        const _0x1724ba = _0x5b8ee5.find(_0x525632 => _0x525632.startsWith("Url :"));
        let _0x43a95e = _0x1724ba.replace("Url :", "").trim();
        try {
@@ -2396,7 +2396,7 @@ smd({
       var _0x426e7e = {
         ...(await _0x5dab40.bot.contextInfo(Config.botname, "ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ"))
       };
-      let _0x452f00 = _0x5c3baf.title || _0x57ada1 || _0x13f167[0x1] || "WASI MD -- YT Video";
+      let _0x452f00 = _0x5c3baf.title || _0x57ada1 || _0x13f167[0x1] || "MIKEY MD -- YT Video";
       if (_0x57ada1) {
         await _0x5dab40.bot.sendMessage(_0x5dab40.chat, {
           [_0xb0f63e]: {
