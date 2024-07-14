@@ -3,7 +3,7 @@ const {
    sleep
  } = require(global.lib_dir || "../lib");
  let regix = /#asta|#smd|#love|#cute|#luv|#world|#moon|#teddy|#hrt|#joy|#sad|#angry|#shy|#conf|#bored|#frust/g;
- let asta = "#asta";
+ let asta = "#mikey";
  smd({
    cmdname: "hrt",
    alias: ["hearts"],
