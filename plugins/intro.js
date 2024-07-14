@@ -6,27 +6,47 @@
 //                                         Ｖ：2．5．0                                         // 
 //                                                                                            // 
 //                                                                                            // 
-//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
-//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
-//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
-//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
-//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
-//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
+//          
+                                                                                                                                                                      
+                                                                                                                                                                      
+MMMMMMMM               MMMMMMMMIIIIIIIIIIKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEEYYYYYYY       YYYYYYY     MMMMMMMM               MMMMMMMMDDDDDDDDDDDDD             
+M:::::::M             M:::::::MI::::::::IK:::::::K    K:::::KE::::::::::::::::::::EY:::::Y       Y:::::Y     M:::::::M             M:::::::MD::::::::::::DDD          
+M::::::::M           M::::::::MI::::::::IK:::::::K    K:::::KE::::::::::::::::::::EY:::::Y       Y:::::Y     M::::::::M           M::::::::MD:::::::::::::::DD        
+M:::::::::M         M:::::::::MII::::::IIK:::::::K   K::::::KEE::::::EEEEEEEEE::::EY::::::Y     Y::::::Y     M:::::::::M         M:::::::::MDDD:::::DDDDD:::::D       
+M::::::::::M       M::::::::::M  I::::I  KK::::::K  K:::::KKK  E:::::E       EEEEEEYYY:::::Y   Y:::::YYY     M::::::::::M       M::::::::::M  D:::::D    D:::::D      
+M:::::::::::M     M:::::::::::M  I::::I    K:::::K K:::::K     E:::::E                Y:::::Y Y:::::Y        M:::::::::::M     M:::::::::::M  D:::::D     D:::::D     
+M:::::::M::::M   M::::M:::::::M  I::::I    K::::::K:::::K      E::::::EEEEEEEEEE       Y:::::Y:::::Y         M:::::::M::::M   M::::M:::::::M  D:::::D     D:::::D     
+M::::::M M::::M M::::M M::::::M  I::::I    K:::::::::::K       E:::::::::::::::E        Y:::::::::Y          M::::::M M::::M M::::M M::::::M  D:::::D     D:::::D     
+M::::::M  M::::M::::M  M::::::M  I::::I    K:::::::::::K       E:::::::::::::::E         Y:::::::Y           M::::::M  M::::M::::M  M::::::M  D:::::D     D:::::D     
+M::::::M   M:::::::M   M::::::M  I::::I    K::::::K:::::K      E::::::EEEEEEEEEE          Y:::::Y            M::::::M   M:::::::M   M::::::M  D:::::D     D:::::D     
+M::::::M    M:::::M    M::::::M  I::::I    K:::::K K:::::K     E:::::E                    Y:::::Y            M::::::M    M:::::M    M::::::M  D:::::D     D:::::D     
+M::::::M     MMMMM     M::::::M  I::::I  KK::::::K  K:::::KKK  E:::::E       EEEEEE       Y:::::Y            M::::::M     MMMMM     M::::::M  D:::::D    D:::::D      
+M::::::M               M::::::MII::::::IIK:::::::K   K::::::KEE::::::EEEEEEEE:::::E       Y:::::Y            M::::::M               M::::::MDDD:::::DDDDD:::::D       
+M::::::M               M::::::MI::::::::IK:::::::K    K:::::KE::::::::::::::::::::E    YYYY:::::YYYY         M::::::M               M::::::MD:::::::::::::::DD        
+M::::::M               M::::::MI::::::::IK:::::::K    K:::::KE::::::::::::::::::::E    Y:::::::::::Y         M::::::M               M::::::MD::::::::::::DDD          
+MMMMMMMM               MMMMMMMMIIIIIIIIIIKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEE    YYYYYYYYYYYYY         MMMMMMMM               MMMMMMMMDDDDDDDDDDDDD             
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
 //                                                                                            //
 //                                                                                            //
 //                                                                                            //
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Gifted-Md
-   * @author : Gifted Tech.
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : Mikey-Md
+   * @author : Johnleo.
+   * @youtube : https://www.youtube.com/@HacktivistHive
+   * @description : Mikey-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Gifted Tech.
-   * © 2024 Gifted-Md.
+   * Created By Johnleo.
+   * © 2024 Mikey-Md.
 
 
 */
